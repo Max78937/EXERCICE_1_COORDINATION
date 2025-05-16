@@ -1,0 +1,605 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "Which U.S. president was said to have been too honest to lie to his father about chopping down a cherry tree?",
+            "correct_answer": "George Washington",
+            "incorrect_answers": [
+                "Abraham Lincoln",
+                "Thomas Jefferson",
+                "James Monroe"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Film",
+            "question": "Which was the first of Alfred Hitchcock&#039;s movies to be filmed in colour?",
+            "correct_answer": "Rope",
+            "incorrect_answers": [
+                "Psycho",
+                "Vertigo",
+                "Rebecca"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Which Twitch streamer is the vocalist for Red Vox?",
+            "correct_answer": "Vinesauce",
+            "incorrect_answers": [
+                "The8BitDrummer",
+                "LIRIK",
+                "Sodapoppin"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which one of these characters is NOT a playable fighter in Super Smash Bros. Ultimate?",
+            "correct_answer": "Kumatora",
+            "incorrect_answers": [
+                "King K. Rool",
+                "Incineroar",
+                "Corrin"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "The son of which pope supposedly held a lecherous f&ecirc;te involving 50 courtesans in the papal palace?",
+            "correct_answer": "Alexander VI",
+            "incorrect_answers": [
+                "Innocent V",
+                "Urban II",
+                "Pius III"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Politics",
+            "question": "In United States history, how many vice presidents did Franklin D. Roosevelt have during his time in office as president?",
+            "correct_answer": "3",
+            "incorrect_answers": [
+                "1",
+                "2",
+                "0"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "When was the first official international game played?",
+            "correct_answer": "1872",
+            "incorrect_answers": [
+                "1880",
+                "1863",
+                "1865"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Musicals &amp; Theatres",
+            "question": "The World Chess Championship in Chess, Act 1 is set in which Italian city?",
+            "correct_answer": "Merano",
+            "incorrect_answers": [
+                "Venice",
+                "Milan",
+                "Rome"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Need for Speed: Underground, what car does Eddie drive?",
+            "correct_answer": "Nissan Skyline GT-R (R34)",
+            "incorrect_answers": [
+                "Mazda RX-7 FD3S",
+                "Acura Integra Type R",
+                "Subaru Impreza 2.5 RS"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "Who won Big Brother 2014 UK?",
+            "correct_answer": "Helen Wood",
+            "incorrect_answers": [
+                "Christopher Hall",
+                "Pauline Bennett",
+                "Pavandeep &quot;Pav&quot; Paul"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In which game did the character &quot;Mario&quot; make his first appearance?",
+            "correct_answer": "Donkey Kong",
+            "incorrect_answers": [
+                "Super Mario Bros.",
+                "Super Mario Land",
+                "Mario Bros."
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Politics",
+            "question": "&quot;Yes, America Can!&quot; was this United States politician&#039;s de facto campaign slogan in 2004.",
+            "correct_answer": "George W. Bush",
+            "incorrect_answers": [
+                "John Kerry",
+                "Barack Obama",
+                "Al Gore"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": ".at is the top-level domain for what country?",
+            "correct_answer": "Austria",
+            "incorrect_answers": [
+                "Argentina",
+                "Australia",
+                "Angola"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the video game, Half-life, what event started the Half-life universe as we know today?",
+            "correct_answer": "The Resonance Cascade",
+            "incorrect_answers": [
+                "World War 3",
+                "The Xen Attack",
+                "The Black Mesa Nuke"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "On what street did the 1666 Great Fire of London start?",
+            "correct_answer": "Pudding Lane",
+            "incorrect_answers": [
+                "Baker Street",
+                "Houses of Parliament",
+                "St Paul&#039;s Cathedral"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Which one of these songs did the group &quot;Men At Work&quot; NOT make?",
+            "correct_answer": "Safety Dance",
+            "incorrect_answers": [
+                "Down Under",
+                "Who Can It Be Now?",
+                "It&#039;s a Mistake"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Who wrote and directed the animated movie &quot;Spirited Away&quot; (2001)?",
+            "correct_answer": "Hayao Miyazaki",
+            "incorrect_answers": [
+                "Isao Takahata",
+                "Mamoru Hosoda",
+                "Hidetaka Miyazaki"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "Chartreuse is a color between yellow and what?",
+            "correct_answer": "Green",
+            "incorrect_answers": [
+                "Red",
+                "Black",
+                "Purple"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which Game Boy from the Game Boy series of portable video game consoles was released first?",
+            "correct_answer": "Game Boy Color",
+            "incorrect_answers": [
+                "Game Boy Advance",
+                "Game Boy Micro",
+                "Game Boy Advance SP"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Musicals &amp; Theatres",
+            "question": "The Andrew Lloyd Webber musical &quot;Cats&quot; is based off a book of poems written by which author?",
+            "correct_answer": "T.S. Elliot",
+            "incorrect_answers": [
+                "Andrew Lloyd Webber",
+                "Emily Dickenson",
+                "Robert Frost"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the game Nuclear Throne, what character is only usable in a play through with Melting?",
+            "correct_answer": "Skeleton",
+            "incorrect_answers": [
+                "Frog",
+                "Horror",
+                "Plant"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "The 1985 Toyota Corolla &quot;AE86&quot; was the hero car for what anime? ",
+            "correct_answer": "Initial D",
+            "incorrect_answers": [
+                "Wangan Midnight",
+                "Ghost MF",
+                "Ex Driver"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Television",
+            "question": "Which of these Bojack Horseman characters is a human?",
+            "correct_answer": "Todd Chavez",
+            "incorrect_answers": [
+                "Lennie Turtletaub",
+                "Princess Carolyn",
+                "Tom Jumbo-Grumbo"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Art",
+            "question": "Which artist painted the late 15th century mural &#039;The Last Supper&#039;?",
+            "correct_answer": "Leonardo da Vinci",
+            "incorrect_answers": [
+                "Piero della Francesca",
+                "Paolo Uccello",
+                "Luca Pacioli"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "What was Maggie Simpson&#039;s first canonical word, not including the Tracey Ullman shorts?",
+            "correct_answer": "Daddy.",
+            "incorrect_answers": [
+                "Sequel?",
+                "Ja!",
+                "Rusty!"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Board Games",
+            "question": "Carcassonne is based on which French town?",
+            "correct_answer": "Carcassonne",
+            "incorrect_answers": [
+                "Paris",
+                "Marseille",
+                "Clermont-Ferrand"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "The programming language &#039;Swift&#039; was created to replace what other programming language?",
+            "correct_answer": "Objective-C",
+            "incorrect_answers": [
+                "C#",
+                "Ruby",
+                "C++"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What does Solid Snake use to hide himself with?",
+            "correct_answer": "Cardboard Box",
+            "incorrect_answers": [
+                "Cloaking Device",
+                "Metal Crate",
+                "Cardboard cut-out"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Computers",
+            "question": "What is the name of the process that sends one qubit of information using two bits of classical information?",
+            "correct_answer": "Quantum Teleportation",
+            "incorrect_answers": [
+                "Super Dense Coding",
+                "Quantum Entanglement",
+                "Quantum Programming"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Vehicles",
+            "question": "Which car tire manufacturer is famous for its &quot;P Zero&quot; line?",
+            "correct_answer": "Pirelli",
+            "incorrect_answers": [
+                "Goodyear",
+                "Bridgestone",
+                "Michelin"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Musicals &amp; Theatres",
+            "question": "Which of these musicals won the Tony Award for Best Musical?",
+            "correct_answer": "Rent",
+            "incorrect_answers": [
+                "The Color Purple",
+                "American Idiot",
+                "Newsies"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "&quot;Doctor Jones&quot;, &quot;Turn Back Time&quot; and &quot;Barbie Girl&quot; were UK number ones for which Eurodance group?",
+            "correct_answer": "Aqua",
+            "incorrect_answers": [
+                "Vengaboys",
+                "Eiffel 65",
+                "Sash!"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Yo! Noid 2,&quot; The Noid can perform what special move?",
+            "correct_answer": "Dab",
+            "incorrect_answers": [
+                "Pizza Throw",
+                "Dodge Roll",
+                "Spin Dash"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "What album is the song &#039;New Slang&#039; by The Shins found on?",
+            "correct_answer": "Oh, Inverted World",
+            "incorrect_answers": [
+                "Wincing The Night Away",
+                "Chutes Too Narrow",
+                "Port Of Morrow"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "In the 2012 film, &quot;The Lorax&quot;, who is the antagonist?",
+            "correct_answer": "Aloysius O&#039;Hare",
+            "incorrect_answers": [
+                "Ted Wiggins",
+                "The Once-Ler",
+                "Grammy Norma"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which of these songs by artist Eminem contain the lyric &quot;Nice to meet you. Hi, my name is... I forgot my name!&quot;?",
+            "correct_answer": "Rain Man",
+            "incorrect_answers": [
+                "Without Me",
+                "Kim",
+                "Square Dance"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What is the main character&#039;s name in &quot;Braid&quot;?",
+            "correct_answer": "Tim",
+            "incorrect_answers": [
+                "Boregard",
+                "James",
+                "Jackson"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In Counter-Strike: Global Offensive, what&#039;s the rarity of discontinued skins called?",
+            "correct_answer": "Contraband",
+            "incorrect_answers": [
+                "Discontinued",
+                "Diminished",
+                "Limited"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What are the names of the Ice Climbers in the video game Ice Climber?",
+            "correct_answer": "Popo and Nana",
+            "incorrect_answers": [
+                "Popo and Nina",
+                "Papi and Nana",
+                "Papi and Nina"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "Which of the following blood vessels carries deoxygenated blood?",
+            "correct_answer": "Pulmonary Artery",
+            "incorrect_answers": [
+                "Pulmonary Vein",
+                "Aorta",
+                "Coronary Artery"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "What is the name of the inspector in the series &quot;On the Buses&quot;?",
+            "correct_answer": "Blakey",
+            "incorrect_answers": [
+                "Harper",
+                "Naily",
+                "Gally"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "What is the title of The Allman Brothers Band instrumental used as the theme to the BBC motoring show, &#039;Top Gear&#039;?",
+            "correct_answer": "Jessica",
+            "incorrect_answers": [
+                "Angela",
+                "Erica",
+                "Sandra"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "What year was Red Hot Chill Pepper&#039;s album &quot;Californication&quot; released?",
+            "correct_answer": "1999",
+            "incorrect_answers": [
+                "1997",
+                "2000",
+                "1992"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "In the metal band Slipknot, there are 9 members, which member labelled themselves number 6? ",
+            "correct_answer": "Shawn Crahan (Clown)",
+            "incorrect_answers": [
+                "Sid Wilson",
+                "Cory Taylor",
+                "Mick Thomson"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "History",
+            "question": "Which famous world leader is famed for the saying, &quot;Let them eat cake&quot;, yet is rumored that he\/she never said it at all?",
+            "correct_answer": "Marie Antoinette",
+            "incorrect_answers": [
+                "Czar Nicholas II",
+                "Elizabeth I",
+                "Henry VIII"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "What album did Bon Iver release in 2016?",
+            "correct_answer": "22, A Million",
+            "incorrect_answers": [
+                "Bon Iver, Bon Iver",
+                "Blood Bank EP",
+                "For Emma, Forever Ago"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the game Danganronpa: Happy Trigger Havoc, the character Aoi Asahina&#039;s ultimate ability is what?",
+            "correct_answer": "Ultimate Swimmer",
+            "incorrect_answers": [
+                "Ultimate Detective",
+                "Ultimate Gambler",
+                "Ultimate Dancer"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "What was found in 1946 by two young shepards near a cave?",
+            "correct_answer": "Dead Sea Scrolls",
+            "incorrect_answers": [
+                "The Blackbeard Chest",
+                "Sheep",
+                "The First Oaxaca Cave Sleeper"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Television",
+            "question": "In &quot;Star Trek&quot;, what is the Klingon delicacy of &quot;gagh&quot; made from?",
+            "correct_answer": "Serpent worms",
+            "incorrect_answers": [
+                "Earthworms",
+                "Spaghetti noodles",
+                "Klingworms"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "What is the first element on the periodic table?",
+            "correct_answer": "Hydrogen",
+            "incorrect_answers": [
+                "Helium",
+                "Oxygen",
+                "Lithium"
+            ]
+        }
+    ]
+}
